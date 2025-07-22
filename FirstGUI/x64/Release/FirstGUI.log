@@ -1,0 +1,17 @@
+﻿  App.cpp
+  Blackjack.cpp
+  blackjackgameframe.cpp
+  Carta.cpp
+  Crupier.cpp
+  JuegoFrame.cpp
+  Jugador.cpp
+  MainFrame.cpp
+  Mano.cpp
+  Mazo.cpp
+C:\Users\samue\source\repos\FirstGUI\FirstGUI\Mazo.cpp(30,55): warning C4267: 'return': conversión de 'size_t' a 'int'; posible pérdida de datos
+  Persona.cpp
+  Generando código
+  Previous IPDB not found, fall back to full compilation.
+  All 1111 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Generación de código finalizada
+  FirstGUI.vcxproj -> C:\Users\samue\source\repos\FirstGUI\x64\Release\FirstGUI.exe
