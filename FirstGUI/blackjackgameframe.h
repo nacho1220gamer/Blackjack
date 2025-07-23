@@ -66,7 +66,6 @@ private:
 	void OnVolver(wxCommandEvent& evt);
 	void OnPedirCarta(wxCommandEvent& event);
 	void OnPlantarse(wxCommandEvent& event);
-	void visualizarcartasrepartidas();
 	void turnoCrupier();
 	void determinarGanador();
 	void entregardinero();

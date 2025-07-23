@@ -23,7 +23,7 @@ std::string Crupier::generarNombreAleatorio() {
     const std::string nombres[] = { "Ignacio", "Samuel", "Camilo", "Juan Manuel" };
     int numNombres = sizeof(nombres) / sizeof(nombres[0]);
 
-    std::random_device rd;
+    std::random_device rd; 
     std::mt19937 gen(rd());
     std::uniform_int_distribution<> dis(0, numNombres - 1);
 
